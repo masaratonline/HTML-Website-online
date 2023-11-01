@@ -519,8 +519,10 @@ header  .header-content img {
 @media (max-width: 528px) {
 
     #home .navbar nav  {
-        background-color: blanchedalmond;
-        text-align: center;
+        #home .navbar nav a {
+     
+      font-size: 12px;
+    }
         
     }
     
